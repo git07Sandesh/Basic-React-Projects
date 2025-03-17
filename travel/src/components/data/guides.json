@@ -1,0 +1,47 @@
+{
+    "1": {
+      "places": [
+        {
+          "name": "Pashupatinath Temple",
+          "description": "A sacred Hindu temple located on the banks of the Bagmati River."
+        },
+        {
+          "name": "Boudhanath Stupa",
+          "description": "A Buddhist stupa and a UNESCO World Heritage Site."
+        }
+      ],
+      "activities": [
+        {
+          "name": "Cultural Tours",
+          "description": "Explore the rich cultural heritage of Kathmandu Valley."
+        },
+        {
+          "name": "Mountain Views",
+          "description": "Enjoy views of the Himalayas from various viewpoints around the city."
+        }
+      ]
+    },
+    "2": {
+      "places": [
+        {
+          "name": "Phewa Lake",
+          "description": "A beautiful freshwater lake surrounded by mountains."
+        },
+        {
+          "name": "Sarangkot",
+          "description": "A hilltop village with panoramic views of the Himalayas."
+        }
+      ],
+      "activities": [
+        {
+          "name": "Trekking",
+          "description": "Trek to Annapurna Base Camp or Poon Hill."
+        },
+        {
+          "name": "Paragliding",
+          "description": "Enjoy an aerial view of Pokhara's stunning landscape."
+        }
+      ]
+    }
+  }
+  

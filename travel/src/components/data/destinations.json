@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "Kathmandu",
+      "description": "Ancient temples and vibrant culture in Nepal's capital",
+      "image": "https://images.unsplash.com/photo-1605640840605-14ac1855827b?auto=format&fit=crop&q=80"
+    },
+    {
+      "id": 2,
+      "title": "Pokhara",
+      "description": "Lakeside beauty with mountain views",
+      "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&q=80"
+    },
+    {
+      "id": 3,
+      "title": "Chitwan",
+      "description": "National park with diverse wildlife",
+      "image": "https://images.unsplash.com/photo-1571401835393-8c5f35328320?auto=format&fit=crop&q=80"
+    },
+    {
+      "id": 4,
+      "title": "Lumbini",
+      "description": "The birthplace of Lord Buddha, a UNESCO World Heritage Site",
+      "image": "https://images.unsplash.com/photo-1572460674207-bf4282b81bc7?auto=format&fit=crop&q=80"
+    },
+    {
+      "id": 5,
+      "title": "Everest Base Camp",
+      "description": "The most popular trekking destination for adventure enthusiasts",
+      "image": "https://images.unsplash.com/photo-1504504707885-11934e2214f6?auto=format&fit=crop&q=80"
+    },
+    {
+      "id": 6,
+      "title": "Bhaktapur",
+      "description": "A medieval city with rich history, architecture, and culture",
+      "image": "https://images.unsplash.com/photo-1580424917967-a8867a6e676e?auto=format&fit=crop&q=80"
+    },
+    {
+      "id": 7,
+      "title": "Nagarkot",
+      "description": "A hill station with panoramic views of the Himalayas",
+      "image": "https://images.unsplash.com/photo-1584297946952-fd140a4b3940?auto=format&fit=crop&q=80"
+    },
+    {
+      "id": 8,
+      "title": "Rara Lake",
+      "description": "Nepal's largest lake, located in a remote area with scenic beauty",
+      "image": "https://images.unsplash.com/photo-1565069690-418a56c91b84?auto=format&fit=crop&q=80"
+    }
+  ]
+  
