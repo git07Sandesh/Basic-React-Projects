@@ -51,22 +51,22 @@ const DestinationPage = () => {
               </div>
             </div>
 
-            <div className="guide-section mb-8">
-  <h3 className="text-2xl font-semibold mb-4">Activities</h3>
-  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-    {guide.activities.map((activity, index) => (
-      <div key={index} className="card bg-white p-6 rounded-lg shadow-md">
-        <h4 className="text-xl font-semibold mb-4">{activity.name}</h4>
-        <p className="text-gray-600 mb-4">{activity.description}</p>
-        <div className="rating mb-4">
-          <span className="text-yellow-400">★</span>
-          <span>{activity.rating}</span>
-        </div>
-        <button className="text-blue-500 hover:underline">Learn More</button>
+    <div className="guide-section mb-8">
+      <h3 className="text-2xl font-semibold mb-4">Activities</h3>
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+        {guide.activities.map((activity, index) => (
+          <div key={index} className="card bg-white p-6 rounded-lg shadow-md">
+            <h4 className="text-xl font-semibold mb-4">{activity.name}</h4>
+            <p className="text-gray-600 mb-4">{activity.description}</p>
+            <div className="rating mb-4">
+              <span className="text-yellow-400">★</span>
+              <span>{activity.rating}</span>
+            </div>
+            <button className="text-blue-500 hover:underline">Learn More</button>
+          </div>
+        ))}
       </div>
-    ))}
-  </div>
-</div>
+    </div>
           </>
         )}
 
